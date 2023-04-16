@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d8ce6f6670a12c0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f14a2b4f58271e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c92e2b3fe0e15bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing a sliver c2 powershell stager with shellcode compression and aes encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67eeae5c810fe278",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f88ab1a27c2b697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4040c741f4e51a28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1de218c4587c9877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7536889234417a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b380df32ef35baed",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5aa52cc4956c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097b0d12c14de332",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "writing a sliver c2 powershell stager with shellcode compression and aes encryption.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "916dc000f517059c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "writing a sliver c2 powershell stager with shellcode compression and aes encryption.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a5bf05663d13ac9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63650d9f2d3d8137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "writing a sliver c2 powershell stager with shellcode compression and aes encryption.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7c92e2b3fe0e15bb",
+  "lastOpenFiles": [
+    "writing a sliver c2 powershell stager with shellcode compression and aes encryption.md",
+    "Writing a Sliver C2 Powershell Stager with Shellcode Compression and AES Encryption.md",
+    "index.Rmd",
+    "sliver2.PNG",
+    "sliver1.PNG",
+    "keyscyberchef.PNG",
+    "base64cyberchef.PNG",
+    "compile.PNG",
+    "classlibrary.PNG",
+    "createproject.PNG",
+    "jobs.png",
+    "Pasted image 20230412151956.png",
+    "xpn.png",
+    "post/Pasted image 20230412140426.png.md",
+    "post"
+  ]
+}
